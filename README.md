@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
 
 I'm a **Water Resource Engineer** and **Researcher** passionate about combining domain expertise with data-driven modeling. I work on hydrologic extremes, uncertainty quantification, and statistical modeling — with a particular focus on extreme value theory and non-stationary processes.
 
