@@ -6,25 +6,19 @@ I'm a **Water Resource Engineer** and **Researcher** passionate about combining 
 **Pronouns:** he/him
 
 ---
-
 ## 🔬 Current Interests
 
-- 🌊 Hydrologic extremes (floods, droughts)
-- 📈 Non-stationary extreme value modeling (GEV & GPD)
-- 🧠 Probabilistic modeling, MCMC, and model diagnostics
-- 🏙️ Urban floood modelling
+- 🌊 Hydrologic extremes (floods, droughts) | 📈 Non-stationary extreme value modeling (GEV & GPD)
+- 🧠 Probabilistic modeling, MCMC, and model diagnostics |  🏙️ Urban floood modelling
 - 🧘 Advaita Vedanta and Upanishads
 
 ---
-
 ### Reach me
 - 🌐 Website: [nischalcs50.github.io](https://nischalcs50.github.io/)  
 - 📧 Email: nkafle.29@gmail.com | nkafle@memphis.edu  
-- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-kafle-67073a195/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-kafle-67073a195/)  
 
 ---
-
 ## 🎉 Fun Fact
-
 I love merging deep philosophy with computational modeling
 
