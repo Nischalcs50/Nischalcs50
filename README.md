@@ -8,8 +8,8 @@ I'm a **Water Resource Engineer** and **Researcher** passionate about combining 
 ---
 ## 🔬 Current Interests
 
-- 🌊 Hydrologic extremes (floods, droughts) | 📈 Non-stationary extreme value modeling (GEV & GPD)
-- 🧠 Probabilistic modeling, MCMC, and model diagnostics |  🏙️ Urban floood modelling
+- 🌊 Hydrologic extremes (Extreme precipitation, floods, droughts) | 📈 Non-stationary extreme value modeling (GEV & GPD)
+- 🧠 Probabilistic programming, MCMC, and model diagnostics |  🏙️ Urban floood modelling
 - 🧘 Advaita Vedanta and Upanishads
 
 ---
@@ -20,5 +20,5 @@ I'm a **Water Resource Engineer** and **Researcher** passionate about combining 
 
 ---
 ## 🎉 Fun Fact
-I love merging deep philosophy with computational modeling
+Bananas grow toward the sun against gravity, which gives the fruit its curved shape.
 
