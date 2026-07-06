@@ -10,7 +10,7 @@ I'm a **Water Resource Engineer** and **Researcher** passionate about combining 
 
 - 🌊 Hydrologic extremes (Extreme precipitation, floods, droughts) | 📈 Non-stationary extreme value modeling (GEV & GPD)
 - 🧠 Probabilistic programming, MCMC, and model diagnostics |  🏙️ Urban floood modelling
-- 🧘 Advaita Vedanta and Upanishads
+- Numerical Modeling
 
 ---
 ### Reach me
@@ -18,7 +18,5 @@ I'm a **Water Resource Engineer** and **Researcher** passionate about combining 
 - 📧 Email: nkafle.29@gmail.com | nkafle@memphis.edu  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-kafle-67073a195/)  
 
----
-## 🎉 Fun Fact
-Bananas grow toward the sun against gravity, which gives the fruit its curved shape.
+
 
