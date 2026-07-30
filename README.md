@@ -14,8 +14,7 @@ I'm an **Engineer** working at the intersection of mathematics and engineering a
 - Urban Hydrology9
 - Data-Driven Environmental Modeling
 
----
-![Visitor Count](https://komarev.com/ghpvc/?username=<YOUR-USERNAME>&color=blue&style=flat-square)
+![Snake Animation](https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-grid-snake.svg)
 
 ---
 ### Reach me
