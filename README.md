@@ -15,7 +15,7 @@ I'm an **Engineer** working at the intersection of mathematics and engineering a
 - Data-Driven Environmental Modeling
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<YOUR-USERNAME>&theme=react-dark)
+![Visitor Count](https://komarev.com/ghpvc/?username=<YOUR-USERNAME>&color=blue&style=flat-square)
 
 ---
 ### Reach me
