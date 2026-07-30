@@ -15,6 +15,9 @@ I'm an **Engineer** working at the intersection of mathematics and engineering a
 - Data-Driven Environmental Modeling
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<YOUR-USERNAME>&theme=react-dark)
+
+---
 ### Reach me
 - 🌐 Website: [nischalcs50.github.io](https://nischalcs50.github.io/)  
 - 📧 Email: nkafle.29@gmail.com | nkafle@memphis.edu  
