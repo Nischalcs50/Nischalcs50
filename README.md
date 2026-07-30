@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Engineering+Researcher;Open-Source+Enthusiast&center=true)](https://git.io/typing-svg)
+
 I'm an **Engineer** working at the intersection of mathematics and engineering applications.
 
 **Pronouns:** he/him
