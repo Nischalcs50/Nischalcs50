@@ -10,8 +10,8 @@ I'm an **Engineer** working at the intersection of mathematics and engineering a
 ## 🔬 Current Interests
 
 - Hydroclimatic Extremes
-- Hydrodynamic Modeling8
-- Urban Hydrology9
+- Hydrodynamic Modeling
+- Urban Hydrology
 - Data-Driven Environmental Modeling
 
 ---
