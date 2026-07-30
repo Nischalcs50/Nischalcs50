@@ -1,16 +1,17 @@
 ## Hi there 👋
 
 
-I'm a **Water Resource Engineer** and **Researcher** passionate about combining domain expertise with data-driven modeling. I work on hydrologic extremes, uncertainty quantification, and statistical modeling — with a particular focus on extreme value theory and non-stationary processes.
+I'm an **Engineer** working at the intersection of mathematics and engineering applications.
 
 **Pronouns:** he/him
 
 ---
 ## 🔬 Current Interests
 
-- 🌊 Hydrologic extremes (Extreme precipitation, floods, droughts) | 📈 Non-stationary extreme value modeling (GEV & GPD)
-- 🧠 Probabilistic programming, MCMC, and model diagnostics |  🏙️ Urban floood modelling
-- Numerical Modeling
+- Hydroclimatic Extremes
+- Hydrodynamic Modeling8
+- Urban Hydrology9
+- Data-Driven Environmental Modeling
 
 ---
 ### Reach me
