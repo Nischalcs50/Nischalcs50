@@ -13,6 +13,7 @@ I'm an **Engineer** working at the intersection of mathematics and engineering a
 - Urban Hydrology9
 - Data-Driven Environmental Modeling
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Open-Source+Enthusiast&center=true)](https://git.io/typing-svg)
 ---
 ### Reach me
 - 🌐 Website: [nischalcs50.github.io](https://nischalcs50.github.io/)  
